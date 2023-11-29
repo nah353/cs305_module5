@@ -1,6 +1,6 @@
-# MovieCataloger
+# FavoriteMovieCataloger
 
-Welcome to MovieCataloger! 🎬 This project allows users to catalog and share their favorite movies with the community.
+Welcome to FavoriteMovieCataloger! This project allows users to catalog and share their favorite movies with the community.
 
 ## Table of Contents
 
