@@ -18,6 +18,7 @@ Welcome to FavoriteMovieCataloger! This project allows users to catalog and shar
 - **Community Sharing:** Explore and discover movies loved by other users.
 - **Rating System:** Rate and review movies to share your opinions.
 - **Search Functionality:** Easily find movies based on title, genre, or user ratings.
+- **Daily Recomendation** Movie picked daily specificaly for you based on certain criteria.
 
 ### New Module
 
